@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Server\Dotnet.WCF.Server.Application\bin\Dotnet.WCF.Server.Application.dll.config
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Server\Dotnet.WCF.Server.Application\bin\Dotnet.WCF.Server.Application.dll
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Server\Dotnet.WCF.Server.Application\bin\Dotnet.WCF.Server.Application.pdb
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Server\Dotnet.WCF.Server.Application\obj\Debug\Dotnet.WCF.Server.Application.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Server\Dotnet.WCF.Server.Application\obj\Debug\Dotnet.WCF.Server.Application.dll
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Server\Dotnet.WCF.Server.Application\obj\Debug\Dotnet.WCF.Server.Application.pdb

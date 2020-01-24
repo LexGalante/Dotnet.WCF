@@ -1,0 +1,4 @@
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Client\Dotnet.WCF.Client.Application\bin\Debug\netcoreapp3.1\Dotnet.WCF.Client.Application.exe
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Client\Dotnet.WCF.Client.Application\obj\Debug\netcoreapp3.1\Dotnet.WCF.Client.Application.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Client\Dotnet.WCF.Client.Application\obj\Debug\netcoreapp3.1\Dotnet.WCF.Client.Application.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Projetos\Dotnet.WCF\Dotnet.WCF.Client\Dotnet.WCF.Client.Application\obj\Debug\netcoreapp3.1\Dotnet.WCF.Client.Application.AssemblyInfo.cs
